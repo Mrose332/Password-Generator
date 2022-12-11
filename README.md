@@ -43,6 +43,7 @@ https://github.com/Mrose332/Password-Generator.git
 
  You can access the deployed application with the GitHub Pages link:  
  
+ https://mrose332.github.io/Password-Generator/
  
 
 ## Resources
