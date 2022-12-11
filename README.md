@@ -43,7 +43,7 @@ https://github.com/Mrose332/Password-Generator.git
 
  You can access the deployed application with the GitHub Pages link:  
  
- https://mrose332.github.io/Password-Generator/
+ 
 
 ## Resources
 https://stackoverflow.com/questions/1497481/javascript-password-generator
