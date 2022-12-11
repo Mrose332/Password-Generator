@@ -37,8 +37,9 @@ THEN the password is either displayed in an alert or written to the page
 ## Installation
 
  The project was uploaded to GitHub at the following repository:  
-                 
- git@github.com:Mrose332/Password-Generator.git
+
+https://github.com/Mrose332/Password-Generator.git
+
 
  You can access the deployed application with the GitHub Pages link:  
  
