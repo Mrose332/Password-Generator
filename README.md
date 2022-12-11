@@ -32,7 +32,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Screenshot
 
-<img src= "develop/images/PasswordGeneratorPic.jpeg">
+<img src= "assets/images/PasswordGeneratorPic.jpeg">
 
 ## Installation
 
